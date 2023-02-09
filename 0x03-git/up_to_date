@@ -1,2 +1,2 @@
 git checkout update_script
-git pull origin main
+git pull origin master
